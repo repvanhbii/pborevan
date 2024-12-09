@@ -1,0 +1,20 @@
+{
+    "1": {
+        "id": "674c7f045e3ca",
+        "nama": "Shampoo",
+        "harga": "2.000",
+        "stok": "2"
+    },
+    "5": {
+        "id": "674d0b03184b6",
+        "nama": "Coklat",
+        "harga": "500",
+        "stok": "50"
+    },
+    "6": {
+        "id": "6756b8089b342",
+        "nama": "Thai Tea",
+        "harga": "10.000",
+        "stok": "25"
+    }
+}
